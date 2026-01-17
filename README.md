@@ -58,3 +58,5 @@ Top‑level metrics surfaced on the main Internet Sales page:
 
 [adv.pdf](https://github.com/user-attachments/files/24689755/adv.pdf)
 
+## If you find this project useful or insightful, feel free to ⭐ star the repository!
+
