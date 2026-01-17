@@ -46,9 +46,7 @@ Top‑level metrics surfaced on the main Internet Sales page:
 
 ---
 
-## Dashboard Preview
+## Download Dashboard Preview as pdf
 
 [adv.pdf](https://github.com/user-attachments/files/24689755/adv.pdf)
-
-Add screenshots into the `/images` folder and reference them like this:
 
