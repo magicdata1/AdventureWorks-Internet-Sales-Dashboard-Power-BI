@@ -1,5 +1,5 @@
 
-# AdventureWorks Internet Sales — Power BI Dashboard
+# AdventureWorks Internet Sales - Power BI Dashboard
 
 ## Overview
 This project presents a fully interactive **Power BI** dashboard built using the **AdventureWorks Internet Sales** dataset.  
